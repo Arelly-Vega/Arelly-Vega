@@ -2,8 +2,8 @@
 
 <h1>Hi, soy Arelly 👋 </h1>
 <h2>⚡️ Contactemos</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/Arelly Fernanda Vega Peche" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="undefinedArelly Fernanda Vega Peche" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/arelly-vega/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://medium.com/@vegapeche0375" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
 
 # 💫 Sobre mí:
 Soy una desarrolladora junior enfocada en el análisis y ciencia de datos.<br>Estudiante del 8vo ciclo de Ingeniería de Sistemas e Informática.<br>Apasionada por la investigación, el pensamiento crítico y la búsqueda de la mejor solución.<br>Me considero una persona curiosa por aprender, organizada, empática, respetuosa y grata.
