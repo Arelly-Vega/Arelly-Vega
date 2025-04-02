@@ -6,7 +6,7 @@
 # 💫 <i>Sobre mí</i>
 <br>
 <p align = "center">
-  <b>Soy una desarrolladora junior enfocada en el análisis y ciencia de datos.<br>Estudiante del 8vo ciclo de Ingeniería de Sistemas e Informática.<br>Apasionada por la investigación, el pensamiento crítico y la búsqueda de la mejor solución.<br>Me considero una persona curiosa por aprender, organizada, empática, respetuosa y grata.</b>
+  <b>Soy una desarrolladora junior enfocada en el análisis y ciencia de datos.<br>Estudiante del 9no ciclo de Ingeniería de Sistemas e Informática.<br>Apasionada por la investigación, el pensamiento crítico y la búsqueda de la mejor solución.<br>Me considero una persona curiosa por aprender, organizada, empática, respetuosa y grata.</b>
 </p>
 <br>
 
